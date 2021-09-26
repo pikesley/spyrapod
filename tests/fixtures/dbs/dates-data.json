@@ -1,0 +1,19 @@
+{
+  "_default": {
+    "1": {
+      "name": "oldest ride",
+      "id": 12,
+      "start_date": "2020-01-01T00:00:00Z"
+    },
+    "2": {
+      "name": "newest ride",
+      "id": 34,
+      "start_date": "2021-01-01T00:00:00Z"
+    },
+    "3": {
+      "name": "middle ride",
+      "id": 56,
+      "start_date": "2020-07-01T00:00:00Z"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+black
+httpretty
+ipdb
+isort
+numpy
+pylama
+pylint
+pytest
+pytest-cov
+pytest-random-order
+requests
+tinydb
